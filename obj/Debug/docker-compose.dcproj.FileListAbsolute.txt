@@ -1,0 +1,17 @@
+H:\DotnetProjects\WebApplication4\bin\Debug\WebApplication4.deps.json
+H:\DotnetProjects\WebApplication4\bin\Debug\WebApplication4.runtimeconfig.json
+H:\DotnetProjects\WebApplication4\bin\Debug\appsettings.Development.json
+H:\DotnetProjects\WebApplication4\bin\Debug\appsettings.json
+H:\DotnetProjects\WebApplication4\bin\Debug\WebApplication4.exe
+H:\DotnetProjects\WebApplication4\bin\Debug\WebApplication4.dll
+H:\DotnetProjects\WebApplication4\bin\Debug\StackExchange.Redis.dll
+H:\DotnetProjects\WebApplication4\bin\Debug\Redis.OM.dll
+H:\DotnetProjects\WebApplication4\bin\Debug\Pipelines.Sockets.Unofficial.dll
+H:\DotnetProjects\WebApplication4\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+H:\DotnetProjects\WebApplication4\bin\Debug\Ulid.dll
+H:\DotnetProjects\WebApplication4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\DotnetProjects\WebApplication4\bin\Debug\Newtonsoft.Json.dll
+H:\DotnetProjects\WebApplication4\bin\Debug\WebApplication4.pdb
+H:\DotnetProjects\WebApplication4\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+H:\DotnetProjects\WebApplication4\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+H:\DotnetProjects\WebApplication4\obj\Debug\docker-compose.dcproj.CopyComplete

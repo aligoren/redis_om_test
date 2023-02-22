@@ -1,0 +1,27 @@
+name: dockercompose3501165963549021515
+services:
+  redis:
+    image: redis/redis-stack-server
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 6379
+      published: "6379"
+      protocol: tcp
+  webapplication4:
+    build:
+      context: H:\DotnetProjects\WebApplication4
+      dockerfile: WebApplication4/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: webapplication4
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose3501165963549021515_default
